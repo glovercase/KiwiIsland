@@ -1,0 +1,93 @@
+Welcome to the KiwiIsland Help Menu.
+
+To Start the game:
+
+	-Click on the Level button to select the Level you want to enter.
+
+Game Controls:
+
+	-Click the buttons with the mouse to use any buttons.
+
+	-Press the left arrow key in the Keyboard to move to one square to the left.
+
+	-Press the right arrow key in the Keyboard to move to one square to the Right.
+
+	-Press the Up arrow key in the Keyboard to move to one square Up.
+
+	-Press the Down arrow key in the Keyboard to move the player one square Down.
+
+Turn Music On/Off:
+	
+	-Under Options click on Settings
+
+	-Click Music On button to turn the music on.
+
+	-Click Music Off button to turn the music off
+
+
+Player Information: 
+
+	The following Player information is presented in the side menu under Player: 
+
+	-Name: Name of the Player
+
+	-Stamina: Stamina of the Player
+
+	-Backpack Weight: The weight of the player Backpack in percentage.
+
+	-Backpack Size: The size of the backpack that is used in percentage
+
+	-Predators Left: The number of predators left in the particular game Level.
+
+	-Kiwis Counted: The number of Kiwis counted by the player in the game Level.
+
+         
+How to play the Game: 
+	-To Select the character:
+
+	Select one character from the two given option.
+	
+	-To Select the Level:
+	-Click on the radio button on the NZ map to enter a Level
+	-A green radio button would indicate you can enter the Level.
+
+	-To win the game: 
+
+	Player should move along the squares and count all the Kiwis and capture all the  	predators in all level.
+
+
+	-To count Kiwi: 
+	
+	Use the count button in the side menu once you encounter a Kiwi.
+
+	-To see the Kiwi counted
+
+	Click on Kiwi log under Options
+
+	-To Check the items collected in the game.
+
+	Click on Back Pack under Options
+
+
+	-To capture a Predator:
+
+	A player should figure this out. A little suspense. Don’t worry too much we 
+	will give you more hints once you encounter a predator. 
+
+	Hint: Collect Something….
+
+       
+	-How do you Lose:
+
+	A player loses if he/she is out of stamina so save your stamina or figure out
+	how to increase your stamina!!! 
+	( Hint to increase Stamina: Collect Something again…..)
+
+	There are several hazards in the game and a player should avoid these hazards or 
+	game is lost. 
+
+Hope you enjoy the game. Don’t forget to give us good ratings at the end!!!!!!
+	
+	
+
+

@@ -1,0 +1,31 @@
+~~~~~~~~~~
+~........~
+~.******.~
+~.******.~
+~.*%%%**.~
+~.*%$%**.~
+~.*%%%**.~
+~.******.~
+~........~
+~~~~~~~~~~
+?
+F,Kiwi,The kiwi is a unique and curious bird: it cannot fly has loose hair-like feathers strong legs and no tail.,0,1
+F,Kiwi,Approximately 20% of the kiwi population is under management,3,5
+F,Kiwi,Only 20% survival rate of kiwi chicks is needed for the population to increase,3,6
+F,Weta,Wētā have become icons for invertebrate conservation in New Zealand because many species are threatened or endangered,0,9
+F,Tui,Tūī are unique (endemic) to New Zealand and belong to the honeyeater family which means they feed mainly on nectar from flowers of native plants.,8,8
+F,Kakeru,Kererū are large birds and can measure up to 51 cm from tail to beak and weigh about 650 g,9,0
+F,Possum,The possum has a thick bushy tail a pointed snout and long fox-like tapering ears,3,0
+F,Cat,Cats were introduced to Mangere Island in the Chathams to control rabbits but in addition had also eliminated at least two species of seabirds and most forest birds by 1950,2,7
+F,Ferret,The ferret is the largest mustelid in New Zealand with a body length of 320 mm-460 mm and a tail of 110-180 mm,1,1
+F,Trap,A Trap to catch Predators,2,0,1,1
+F,Trap,A Trap to catch Predators,2,2,1,1
+F,Trap,A Trap to catch Predators,7,7,1,1
+F,Tool,A screwdriver to fix traps,0,4,1,1
+F,Food,Tasty Snack,1,2,1,1,1
+F,Food,Tasty Snack,5,8,1,1,1
+F,Food,Tasty Sandwich,8,7,1,1,1.5
+F,Food,An Energy Bar,3,9,1,1,2
+F,Hazard,Fatal Rocks,3,2
+F,Hazard,Fatal Rocks,3,8
+F,Hazard,Fatal Rocks,6,2

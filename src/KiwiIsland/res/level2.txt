@@ -1,0 +1,32 @@
+**********
+~~~~~~%%%%
+~~~~~.%..%
+~~~~%.%%%%
+.~~.%.%..%
+%%%.%.%%%%
+~~~.%.%..%
+~~~~%.%%%%
+~~~~~.%..%
+~~~~~~%%%%
+?
+F,Kiwi,The kiwi is a unique and curious bird: it cannot fly has loose hair-like feathers strong legs and no tail.,9,1
+F,Kiwi,Approximately 20% of the kiwi population is under management,4,5
+F,Kiwi,Only 20% survival rate of kiwi chicks is needed for the population to increase,3,2
+F,Weta,There are more than 70 species of wētā in New Zealand 16 of which are at risk,3,0
+F,Tui,Tūī are unique (endemic) to New Zealand and belong to the honeyeater family which means they feed mainly on nectar from flowers of native plants.,2,8
+F,Dolphin,Nine different species of dolphin are found around the New Zealand coast,3,0
+F,Possum,The possum has a thick bushy tail a pointed snout and long fox-like tapering ears,7,3
+F,Cat,Cats can do a lot of damage to our native species,9,9
+F,Rat,Rats have a major impact on New Zealand’s wildlife because they eat native animals and their eggs,2,7
+F,Weasel,Weasels are found in low numbers in most habitats in New Zealand,7,1
+F,Trap,A Trap to catch Predators,9,2,1,1
+F,Trap,A Trap to catch Predators,2,9,1,1
+F,Trap,A Trap to catch Predators,7,7,1,1
+F,Tool,A screwdriver to fix traps,7,4,1,1
+F,Food,Tasty Snack,4,1,1,1,1
+F,Food,Tasty Snack,5,3,1,1,1
+F,Food,Tasty Sandwich,8,7,1,1,1.5
+F,Food,An Energy Bar,3,9,1,1,2
+F,Hazard,Fatal Rocks,3,2
+F,Hazard,Fatal Rocks,5,8
+F,Hazard,Fatal Rocks,4,2

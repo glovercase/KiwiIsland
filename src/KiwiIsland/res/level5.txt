@@ -1,0 +1,35 @@
+*****.....
+~~~~*.%%%.
+~~~~*.%$%.
+*****.%%%.
+....*.....
+%%%.******
+%$%.**....
+%%%.*~.%%%
+....*~.%$%
+*****~.%%%
+?
+F,Kiwi,The kiwi is a unique and curious bird: it cannot fly has loose hair-like feathers strong legs and no tail.,1,1
+F,Kiwi,Approximately 20% of the kiwi population is under management,5,5
+F,Kiwi,Only 20% survival rate of kiwi chicks is needed for the population to increase,6,2
+F,Kiwi,Females are larger than males (up to 3.3 kg and 45 cm),6,2
+F,Dolphin,Māui dolphin is a subspecies of Hector’s dolphin the world’s smallest dolphin,5,0
+F,Tuatara,Tuatara are New Zealand’s largest reptile with adult males measuring up to about a half metre in length and weighing up to 1.5 kg when fully grown,4,8
+F,Fantail,It is easily recognised by its long tail which opens to a fan,6,0
+F,Possum,The possum has a thick bushy tail a pointed snout and long fox-like tapering ears,1,3
+F,Possum,Most common road kill,2,9
+F,Possum,Most common road kill,2,7
+F,Rat,Rats have a major impact on New Zealand’s wildlife because they eat native animals and their eggs,4,7
+F,Stoat,It was introduced to New Zealand in the 1880s to control rabbits and hares but is now a fierce predator of our native species,5,1
+F,Trap,A Trap to catch Predators,4,2,1,1
+F,Trap,A Trap to catch Predators,3,9,1,1
+F,Trap,A Trap to catch Predators,3,7,1,1
+F,Trap,A Trap to catch Predators,5,9,1,1
+F,Tool,A screwdriver to fix traps,6,4,1,1
+F,Food,Tasty Snack,8,1,1,1,1
+F,Food,Tasty Snack,5,3,1,1,1
+F,Food,Tasty Sandwich,8,7,1,1,1.5
+F,Food,An Energy Bar,3,9,1,1,2
+F,Hazard,Fatal Rocks,5,2
+F,Hazard,Fatal Rocks,5,6
+F,Hazard,Fatal Rocks,4,4

@@ -1,0 +1,20 @@
+%%**~~.***
+%**~~~~.**
+**~~~~~~..
+**~~~***~~
+%********~
+%********~
+**~~****~~
+**~~~~~~~~
+%**~~~~~~~
+$%**~~~~~~
+?
+F,Kiwi,The kiwi is a unique and curious bird: it cannot fly has loose hair-like feathers strong legs and no tail.,0,1
+F,Kiwi,A cute little kiwi,6,2
+F,Kiwi,A cute little kiwi,5,9
+F,Tui,Tūī are unique (endemic) to New Zealand and belong to the honeyeater family which means they feed mainly on nectar from flowers of native plants.,8,1
+F,Possum,A naughty little possum,6,1
+F,Possum,A naughty little possum,5,8
+F,Possum,A naughty little possum,4,9
+F,Tool,A Trap,4,5
+F,Food,Tasty Snack,2,4

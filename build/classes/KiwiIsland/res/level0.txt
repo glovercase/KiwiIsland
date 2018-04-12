@@ -1,0 +1,21 @@
+~~~~~~~~~~
+~........~
+~.******.~
+~.******.~
+~.*%%%**.~
+~.*%$%**.~
+~.*%%%**.~
+~.******.~
+~........~
+~~~~~~~~~~
+?
+F,Kiwi,The kiwi is a unique and curious bird: it cannot fly has loose hair-like feathers strong legs and no tail.,0,1
+F,Kiwi,A cute lil kiwi,3,5
+F,Kiwi,A cute lil kiwi,3,6
+F,Tui,Tūī are unique (endemic) to New Zealand and belong to the honeyeater family which means they feed mainly on nectar from flowers of native plants.,8,8
+F,Possum,A naughty lil possum,7,3
+F,Possum,A naughty lil possum,2,7
+F,Tuatara,Tuatara are rare medium-sized reptiles found only in New Zealand. They are the last survivors of an order of reptiles that thrived in the age of the dinosaurs.,1,1
+F,Tool,A Trap,9,2
+F,Food,Tasty Snack,1,1
+F,Hazard,Fatal Rocks,3,2

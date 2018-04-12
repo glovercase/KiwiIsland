@@ -1,0 +1,20 @@
+**********
+~~~~~~%%%%
+~~~~~.%..%
+~~~~%.%%%%
+.~~.%.%..%
+%%%.%.%%%%
+~~~.%.%..%
+~~~~%.%%%%
+~~~~~.%..%
+~~~~~~%%%%
+?
+F,Kiwi,A cute little kiwi,4,0
+F,Kiwi,A cute little kiwi,8,8
+F,Kiwi,A cute little kiwi,4,8
+F,Tui,Tūī are unique (endemic) to New Zealand and belong to the honeyeater family which means they feed mainly on nectar from flowers of native plants.,8,5
+F,Possum,A naughty little possum,3,6
+F,Possum,A naughty little possum,3,9
+F,Possum,A naughty little possum,7,6
+F,Tool,A Trap,5,3
+F,Food,Tasty Snack,2,4
